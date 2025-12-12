@@ -91,8 +91,8 @@ urlpatterns = [
 ~~~
 
 ## SERVER SIDE PROCESSING:
+<img width="1920" height="1080" alt="525724238-12cbd7ff-d860-48bc-b154-8b254574c09e" src="https://github.com/user-attachments/assets/c235ffad-59a0-4ba4-8454-d5cf0e7f6fd1" />
 
-<img width="1135" height="425" alt="Screenshot 2025-12-12 101142" src="https://github.com/user-attachments/assets/7b659ec9-b6af-4ae6-8a76-1c27df8d4890" />
 
 
 ## HOMEPAGE:
